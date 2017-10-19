@@ -1,0 +1,45 @@
+body {
+	background-image: url("../images/concert.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+}
+
+#main-container {
+	background-color: white;
+	width: 500px;
+	height: 500px;
+	margin-left: 35px;
+	margin-top: 35px;
+	padding-left: 53px;
+	padding-top: 53px;
+}
+
+#answers1 li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#answers2 li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#answers3 li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#question1, #question2, #question3 {
+	font-weight: bold;
+}
+
+
+
