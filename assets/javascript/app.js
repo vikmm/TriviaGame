@@ -41,8 +41,7 @@ function endGame(){
 
 }
 
-//$("#timer").prepend("<h2>Time Remaining: <span id="timer">30</span> Seconds</h2>");
-
+$( "a3 option:checked" ).val();
 
 
 
